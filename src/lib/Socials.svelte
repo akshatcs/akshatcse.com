@@ -3,21 +3,18 @@
 
     const socials = [
         {
+            name: "linkedin",
+            url: "https://www.linkedin.com/in/akshatkumarcse/"
+        },
+        {
             name: "github",
-            url: "https://github.com/",
+            url: "https://github.com/akshatcs/",
         },
         {
             name: "twitter",
-            url: "https://twitter.com/",
+            url: "https://twitter.com/akshatcse",
         },
-        {
-            name: "instagram",
-            url: "https://instagram.com/",
-        },
-        {
-            name: "discord",
-            url: "https://discordapp.com/users/",
-        },
+        
     ];
 </script>
 
