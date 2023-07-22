@@ -26,7 +26,7 @@
 			If you are an innovative thinker or share my passion for leveraging technology as a catalyst for positive change, 
             I would love to to connect with you. Whether you have groundbreaking problem-solving ideas or simply seek engaging 
             discussions, I am enthusiastic about collaborating and exploring new possibilities. Please feel free to reach out to 
-            me at  <a href="mailto:akshatk163@gmail.com">akshatk163@gmail.com</a>.
+            me.
 		</p>
 
 		<Socials />
